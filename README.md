@@ -4,22 +4,19 @@
 I am a systems engineer from México :mexico:. Recently I've started making my own projects.
 </p>
 <p align="center">
-Videogame enthusiast. Gotta Catch 'Em All! :video_game:
+Videogames enthusiast. Gotta Catch 'Em All! :video_game:
 </p>
 
-<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelvazquezc/)](https://www.linkedin.com/in/israelvazquezc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivazquez1763@itmatamoros.edu.mx)](mailto:ivazquez1763@itmatamoros.edu.mx)
-</p>
-
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on some important projects
 - 🤔 I’m looking for help with some algorithms
-- 💬 Ask me about politics and videogames
+- 💬 Ask me about politics, videogames and music
 - 📫 How to reach me: ivazquez1763@itmatamoros.edu.mx
-- ⚡ Fun fact: My favorite music genre is reggaetón 
+- ⚡ Fun fact: My favorite music genre is reggaetón
 
 <h2 align= "center"><b>:thinking: Knowledges</b></h2>
 
