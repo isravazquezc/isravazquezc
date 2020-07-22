@@ -7,8 +7,10 @@ I am a systems engineer from México :mexico:. Recently I've started making my o
 Videogame enthusiast. Gotta Catch 'Em All! :video_game:
 </p>
 
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelvazquezc/)](https://www.linkedin.com/in/israelvazquezc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivazquez1763@itmatamoros.edu.mx)](mailto:ivazquez1763@itmatamoros.edu.mx)
+</p>
 
 
 - 🔭 I’m currently working on my own projects
